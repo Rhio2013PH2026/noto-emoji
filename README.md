@@ -1,5 +1,4 @@
 <img width="4096" height="2304" alt="Noto_Color_Emoji_banner" src="https://github.com/user-attachments/assets/f831f6d8-8ea8-4790-adbb-447f196f790b" />
-<img width="4096" height="2304" alt="1000144098" src="https://github.com/user-attachments/assets/383e1f0b-40f2-4e0a-aa09-d6c4018b8c5d" />
 
 # Noto Emoji
 Noto Emoji (Stands for No Tofu) is an open source (Open Font License 1.1) emoji library that provides standard Unicode emoji support and tools for working with them including:
